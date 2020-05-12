@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.7 0152
+# Update time : 2020.5.13 0647
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -1389,7 +1389,6 @@
 .api.iimedia.cn
 .api.ijunhai.com
 .api.itaoxiaoshuo.com
-.api.jr.mi.com
 .api.ketedata.com
 .api.koudaikj.com
 .api.leadbolt.net
@@ -3879,7 +3878,6 @@
 .imads.rediff.com
 .image.139y.com
 .image.9duw.com
-.image.box.xiaomi.com
 .image.fsyule.net
 .image.gentags.com
 .image.haiyunx.com
@@ -8907,7 +8905,6 @@
 .andmlbf.tj.ijinshan.com
 .api.adbana.com
 .api.airpush.com
-.api.amplitude.com
 .api.appjiagu.com
 .api.appsflyer.com
 .api.branch.io
@@ -8945,7 +8942,6 @@
 .bj.bcebos.com
 .bzshzx.com
 .c.appjiagu.com
-.c.duomai.com
 .c.nz.gt.igexin.com
 .c.sz.gt.igexin.com
 .c.top267.com
@@ -8997,7 +8993,6 @@
 .distf.stat.kankan.com
 .dmm.aizhan.com
 .dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
-.duomai.com
 .dw-collect.ksosoft.com
 .dw-online.ksosoft.com
 .dygang.kkcaicai.com
@@ -9546,7 +9541,6 @@
 .adsmogo.com
 .adsmogo.org
 .adwetec.com
-.amplitude.com
 .bjvvqu.cn
 .bjxiaohua.com
 .branch.io
@@ -17220,7 +17214,6 @@
 .win.staticstuff.net
 .wisteria-js.excite.co.jp
 .wkctj.baidu.com
-.wl.jd.com
 .wla.vivaldi.com
 .worcesternews-gb.worcesternews.co.uk
 .wordc.ga
@@ -33480,7 +33473,6 @@ nittlopp.online
 daima.niubb.net
 x.niuliyan.cn
 niuosnd.ru
-niuza.com
 nivsrtqdurhjz.com
 niwota.com
 niwztgetlytxv.com
@@ -35194,7 +35186,6 @@ poxzyu.com
 poyang.cn
 poyecjzk.com
 smi.pp.ua
-pp.ua
 pp8.com
 www.pp9899.com
 ppbvmesssyacij.com
@@ -38048,7 +38039,6 @@ f3.souid.com
 pmh.souid.com
 www.souid.com
 sourcecode.pro
-sourl.cn
 tongji.southmoney.com
 souvlatraffic.com
 sowkhntq.com
