@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.6.22 1903
+# Update time : 2020.6.29 1323
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -2197,7 +2197,6 @@
 .clkservice.youdao.com
 .clkservice2.dict.youdao.com
 .cloud.codenow.cn
-.cloud.rovio.com
 .cloud.zyiis.net
 .cloudad.asia
 .cloudcdn.yousee.com
@@ -6120,7 +6119,6 @@
 .rotator.tradetracker.net
 .router.bittorrent.com
 .router.gwdang.com
-.rovio-news-app.angrybirdsgame.com
 .rp.crasheye.cn
 .rp.gwallet.com
 .rpaulfrank.com
@@ -37498,7 +37496,6 @@ shengushi.cn
 www.shenyun.com
 www.shenyun.org
 www.shenyunperformingarts.org
-ecard.shenzhentong.com
 shermore.info
 shesubscriptions.com
 mo.shezhuang.top
